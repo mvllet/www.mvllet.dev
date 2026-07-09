@@ -308,17 +308,29 @@ header .socials svg:hover {
     font-size: var(--font-xs);
 }
 
-.work .list .item .project-source {
+.work .list .item .project-sources {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 1rem;
+}
+
+.work .list .item .project-sources .project-source {
     background-color: var(--text-color);
     color: var(--bg-color);
     border-radius: var(--radius-md);
     padding: 0.65rem;
-    margin-top: 0.3rem;
+    flex: 1;
     text-align: center;
+    font-size: var(--font-md);
     transition: background-color 0.3s ease;
 }
-.work .list .item .project-source:hover {
+.work .list .item .project-sources .project-source:hover {
     background-color: var(--accent-color);
+}
+.work .list .item .project-sources .project-source::selection {
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
 
 .work .viewall {
