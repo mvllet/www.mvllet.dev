@@ -1,8 +1,8 @@
 # mvllet.dev
 
-This is the source code for my personal portfolio that showcases my skills and selected projects.
+This is the source code for my personal website that showcases my projects.
 
-I built this portfolio with a focus on performance, accessibility, and minimalism.
+I built this website with a focus on performance, accessibility, and minimalism.
 
 It uses no heavy frameworks, ensuring sub-second load times and a perfect Lighthouse score.
 

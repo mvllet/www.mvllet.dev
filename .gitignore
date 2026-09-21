@@ -13,10 +13,7 @@ public/*
 *.swo
 *.bak
 *.old
-
-# VSCode / Cursor
-.vscode/
-.cursor/
+*~
 
 # Node
 node_modules/
