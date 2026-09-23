@@ -6,4 +6,4 @@ I built this website with a focus on performance, accessibility, and minimalism.
 
 It uses no heavy frameworks, ensuring sub-second load times and a perfect Lighthouse score.
 
-#### [View the site →](https://mvllet.dev/)
+#### [View the site →](https://www.mvllet.dev/)
